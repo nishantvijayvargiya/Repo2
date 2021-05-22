@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 74E1-E0A2
+
+ Directory of C:\Users\Nishant vijay\Desktop\Myfolder
+
+05/22/2021  10:22 AM    <DIR>          .
+05/22/2021  10:22 AM    <DIR>          ..
+05/22/2021  10:22 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  16,204,369,920 bytes free
